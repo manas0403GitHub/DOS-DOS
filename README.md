@@ -93,3 +93,33 @@
 
 ## Game 5/last: Crossy road:
 ### You can find this game at _'https://github.com/manas0403GitHub/Crossy-Road'_.
+### Like the same as flappy bird, it is a mobile game. If you don't know how to play it:
+
+![OIG4](https://github.com/manas0403GitHub/DOS-DOS/assets/161040399/ee841526-feab-409a-b6c9-c1bc55024b05)
+
+### Movement Controls:
+  - Use the arrow keys or WASD to move your character sideways or forward.
+  - Swipe left or right on touchscreens to change direction.
+### Avoid Obstacles:
+  - Traffic: Dodge oncoming cars and trucks.
+  - Logs: Hop across floating logs.
+  - Trains: Sidestep trains as they pass.
+  - Collect Coins: Gather coins along the way.
+### Keep Moving:
+  - Don’t linger in one spot for too long, or you’ll be toast!
+  - Moving backward is a valid strategy if needed.
+### Unlock New Characters:
+  > [!NOTE]
+  > In this version, there is no characters
+
+  - Accumulate coins during your runs.
+  - Spend these coins to unlock exciting new characters.
+  - Each character adds fun visual quirks to the game.
+### Traffic Patterns:
+  - Observe traffic patterns carefully.
+  > [!NOTE]
+  > The vehicles might come randomly
+  - Predict the movement of vehicles to avoid collisions.
+### Remember, Crossy Road is all about timing, concentration, and practice. So, keep hopping and enjoy the challenge! 🐔🛣️
+
+# The End
