@@ -31,3 +31,7 @@
 
 ## Game 2: TextRPG
 ### You can find this game at _'https://github.com/manas0403GitHub/TextRPG'_.
+### It's a RPG game like pokemon.
+
+## Game 3: Coin Clicker
+###  You can find this game at _'https://github.com/manas0403GitHub/Coin-Clicker'_.
