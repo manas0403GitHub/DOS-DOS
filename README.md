@@ -16,25 +16,25 @@
 ### You can find this game at _'https://github.com/manas0403GitHub/The-Rock-Paper-Scissors-Game-'_.
 ### The classic Rock, Paper, Scissors game is simple. If you don't know how to play the classic game:
 
-  ### Hand Signals:
-     - Rock: Make a closed fist.
-     - Paper: Keep your hand flat with all fingers extended and touching.
-     - Scissors: Extend your index and middle fingers out in a V shape.
-  ### Rules:
-     - Rock crushes Scissors but is covered by Paper.
-     - Paper covers Rock but is cut by Scissors.
-     - Scissors cut Paper but are crushed by Rock.
-  ### Playing a Round:
-     - Stand facing your opponent.
-     - Each player says “rock, paper, scissors” and simultaneously forms one of the three objects with their hand.
-     - The winner is determined by the rules above.
+### Hand Signals:
+  - Rock: Make a closed fist.
+  - Paper: Keep your hand flat with all fingers extended and touching.
+  - Scissors: Extend your index and middle fingers out in a V shape.
+### Rules:
+  - Rock crushes Scissors but is covered by Paper.
+  - Paper covers Rock but is cut by Scissors.
+  - Scissors cut Paper but are crushed by Rock.
+### Playing a Round:
+  - Stand facing your opponent.
+  - Each player says “rock, paper, scissors” and simultaneously forms one of the three objects with their hand.
+  - The winner is determined by the rules above.
 
 ## Game 2: TextRPG
 ### You can find this game at _'https://github.com/manas0403GitHub/TextRPG'_.
 ### It's a RPG game like pokemon.
 
 ## Game 3: Coin Clicker
-###  You can find this game at _'https://github.com/manas0403GitHub/Coin-Clicker-'_.
+### You can find this game at _'https://github.com/manas0403GitHub/Coin-Clicker-'_.
 ### A classic clicker game is also simple. If you don't know how to play it:
 
 ### Start the Game: 
@@ -55,3 +55,6 @@
   - The fun in clicker games comes from watching your progress grow exponentially from just a few clicks.
 
 ### Remember, each clicker game has its own unique mechanics and features, so it’s always a good idea to check the instructions or tutorial within the game itself for specific details.
+
+## Game 4: Flappy bird:
+### You can find this game at _'https://github.com/manas0403GitHub/Flappy-Bird'_.
