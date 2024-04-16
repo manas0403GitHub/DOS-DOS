@@ -12,9 +12,14 @@
 ### -> FLAPB(Flappy bird)
 ### -> CRR(Crossy Road)
 
+> [!NOTE]
+> Some for the games are same as the orignal ones!
+
 ## Game 1: The Rock,Paper,Scissors game!
 ### You can find this game at _'https://github.com/manas0403GitHub/The-Rock-Paper-Scissors-Game-'_.
 ### The classic Rock, Paper, Scissors game is simple. If you don't know how to play the classic game:
+
+![OIG1](https://github.com/manas0403GitHub/DOS-DOS/assets/161040399/83b34c31-00e8-4cb3-b37b-93b904d9e4b1)
 
 ### Hand Signals:
   - Rock: Make a closed fist.
@@ -37,6 +42,8 @@
 ### You can find this game at _'https://github.com/manas0403GitHub/Coin-Clicker-'_.
 ### A classic clicker game is also simple. If you don't know how to play it:
 
+![OIG3](https://github.com/manas0403GitHub/DOS-DOS/assets/161040399/7589ecde-474a-4e85-9887-7c572b7aef31)
+
 ### Start the Game: 
   - Open the clicker game you want to play. 
   - This could be on a website or a mobile app.
@@ -58,3 +65,31 @@
 
 ## Game 4: Flappy bird:
 ### You can find this game at _'https://github.com/manas0403GitHub/Flappy-Bird'_.
+### Flappy bird is a pouplar mobile game. If you don't know how to play it:
+
+![OIG4](https://github.com/manas0403GitHub/DOS-DOS/assets/161040399/75bb4c62-cbb2-49bc-a797-8225664b7e3a)
+
+### Start the Game: 
+  - Launch Flappy Bird on your device.
+  - If you don’t have it installed, you may need to find a version or an alternative, as the original was removed from app stores.
+### Gameplay:
+ - Tap to Fly: 
+    - Tap the screen to make the bird flap its wings and go higher.
+
+    - Release to let the bird fall.
+ - Navigate: 
+    - Your goal is to fly between sets of pipes without touching them.
+    - The pipes will be at varying heights, requiring you to tap with different intensities and timing.
+ - Score Points: 
+    - Each set of pipes you pass through without touching them scores you a point.
+### Stay Focused:
+ - Find Your Rhythm: 
+    - The key to success is finding a rhythm with your taps to navigate through the pipes effectively.
+ - Avoid the Edges: 
+    - Try not to fly too high or too low because hitting the ground or the top of the screen will end the game.
+### Practice: 
+  - It may take some time to get used to the game’s mechanics, so keep practicing to improve your high score!
+### Remember, the game is known for being difficult, so don’t get discouraged if it takes a few tries to get a high score. Good luck! 🐦
+
+## Game 5/last: Crossy road:
+### You can find this game at _'https://github.com/manas0403GitHub/Crossy-Road'_.
