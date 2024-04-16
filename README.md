@@ -30,4 +30,4 @@
      - The winner is determined by the rules above.
 
 ## Game 2: TextRPG
-### You can find this game at _'https://github.com/manas0403GitHub/TextRPG-'_.
+### You can find this game at _'https://github.com/manas0403GitHub/TextRPG'_.
