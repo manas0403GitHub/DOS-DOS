@@ -35,3 +35,23 @@
 
 ## Game 3: Coin Clicker
 ###  You can find this game at _'https://github.com/manas0403GitHub/Coin-Clicker-'_.
+### A classic clicker game is also simple. If you don't know how to play it:
+
+### Start the Game: 
+  - Open the clicker game you want to play. 
+  - This could be on a website or a mobile app.
+### Understand the Objective: 
+  - The main goal is usually to accumulate as much of something (like cookies, money, etc.) as possible.
+### Click to Earn:
+  - Click on the designated area or object to start earning.
+  - Each click will give you a certain number of points or units of currency.
+### Upgrade and Automate: 
+  - Use your earnings to buy upgrades or items that will automate the clicking process, allowing you to earn points without active clicking.
+### Progress Further: 
+  - As you earn more, you can unlock new levels, challenges, or even more efficient ways of earning.
+### Set Goals: 
+  - Some games have set goals or milestones to achieve, which can guide your strategy on what to upgrade or prioritize.
+### Enjoy the Incremental Progress: 
+  - The fun in clicker games comes from watching your progress grow exponentially from just a few clicks.
+
+### Remember, each clicker game has its own unique mechanics and features, so it’s always a good idea to check the instructions or tutorial within the game itself for specific details.
